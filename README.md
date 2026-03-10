@@ -6,3 +6,5 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=TarasovVlad_frontend-project-44)](https://sonarcloud.io/summary/new_code?id=TarasovVlad_frontend-project-44)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=TarasovVlad_frontend-project-44)
+
+[![asciicast](https://asciinema.org/a/1SwiYWGwIfsrwfsk.svg)](https://asciinema.org/a/1SwiYWGwIfsrwfsk)

@@ -5,10 +5,16 @@
     "version": "1.0.0",
     "main": "pathToMain",
     "dependencies": {
+        "@stylistic/eslint-plugin": "^5.10.0",
+        "eslint": "^10.0.3",
+        "globals": "^17.4.0",
         "readline-sync": "^1.4.10"
     },
     "type": "module",
     "bin": {
         "brain-games": "bin/brain-games.js"
+    },
+    "devDependencies": {
+        "@eslint/js": "^10.0.1"
     }
 }

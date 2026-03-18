@@ -7,4 +7,6 @@
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=TarasovVlad_frontend-project-44)
 
-[![asciicast](https://asciinema.org/a/1SwiYWGwIfsrwfsk.svg)](https://asciinema.org/a/1SwiYWGwIfsrwfsk)
+[![asciicast](https://asciinema.org/a/bQaJuyiswLqlClSt.svg)](https://asciinema.org/a/bQaJuyiswLqlClSt)
+
+[![asciicast](https://asciinema.org/a/95W1XODNYMDSYSbw.svg)](https://asciinema.org/a/95W1XODNYMDSYSbw)

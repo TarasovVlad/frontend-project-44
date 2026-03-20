@@ -2,7 +2,7 @@ import readlineSync from 'readline-sync'
 
 const questionsCount = 3
 
-export default (userName, gameDescription, getQuestionAndAnswer) => {
+const startGame = (userName, gameDescription, getQuestionAndAnswer) => {
   console.log(gameDescription)
 
   for (let i = 0; i < questionsCount; i += 1) {
@@ -20,3 +20,5 @@ export default (userName, gameDescription, getQuestionAndAnswer) => {
   }
   console.log(`Congratulations, ${userName}!`)
 }
+
+export default startGame

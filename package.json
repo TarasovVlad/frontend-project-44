@@ -1,7 +1,7 @@
 {
-    "name": "name",
-    "description": "description",
-    "authors": "author",
+    "name": "@hexlet/code",
+    "description": "Brain Games",
+    "authors": "VladislavTarasov",
     "version": "1.0.0",
     "main": "pathToMain",
     "dependencies": {
